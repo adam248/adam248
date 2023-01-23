@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adam Butler.
+- 👋 Hi, I’m Adam.
 - 👀 I’m interested in all things STEM (Science, Technology, Engineering, and Mathematics)
 - 🧠 I know Python quite well, and love it's beautiful simple syntax. Django is still cool!
 - 🌱 I’m currently learning TypeScript, Rust, Fullstack Development, and more...
