@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam Butler.
 - 👀 I’m interested in all things STEM (Science, Technology, Engineering, and Mathematics)
 - 🧠 I know Python quite well, and love it's beautiful simple syntax. Django is still cool!
-- 🌱 I’m currently learning TypeScript, Rust, Fullstack Development, Godot Game Development
+- 🌱 I’m currently learning TypeScript, Rust, Fullstack Development, and more...
 - 💞️ I’m looking to collaborate on some open source projects.
 - 📫 How to reach me: adamjbutler091 (gmail)
 
