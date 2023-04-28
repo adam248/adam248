@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning TypeScript, Rust, Fullstack Development, Dart, Flutter and more...
 - 💞️ I’m looking to collaborate on some open source projects.
 - 📫 How to reach me: adamjbutler091 (gmail)
+- ❄️ I use [NixOS](https://nixos.org/) btw...
 
 <!---
 adam248/adam248 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
